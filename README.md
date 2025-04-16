@@ -2,16 +2,16 @@
 
 ## Problem Statement: 
 Analysing Used Car Sales Data to understand what attributes affect the Selling Price of Used Cars most strongly.
-(1) We aim to construct a neural network to predict the prices of Used Cars  
-(2) We will propose which attributes should be considered by a prospective seller looking to list their car for sale. This will assist sellers with setting a reasonable price for their car and improve likelihood of successful sales, maximising profit earned from the sale where possible 
+(1) We aim to construct a neural network to predict the prices of Used Cars  <br>
+(2) We will propose which attributes should be considered by a prospective seller looking to list their car for sale. This will assist sellers with setting a reasonable price for their car and improve likelihood of successful sales, maximising profit earned from the sale where possible <br>
 (3) We could analyse the most value for money option depending on the mileage, type of car and sale price of the car 
 
 ## Dataset Used: https://www.kaggle.com/datasets/sandeep1080/used-car-sales/data
 
 ## Members
-Name: Kee Chong Wei |  Matriculation Number: U2320846D 
-Name: Jiang Zong Zhe | Matriculation Number: U2322460F 
-Name: Chew Jin Cheng | Matriculation Number: U2321537J
+Name: Kee Chong Wei |  Matriculation Number: U2320846D  <br>
+Name: Jiang Zong Zhe | Matriculation Number: U2322460F  <br>
+Name: Chew Jin Cheng | Matriculation Number: U2321537J 
 
 #### Marking Criteria
 | Criteria      | Description |
