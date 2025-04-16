@@ -1,7 +1,7 @@
 # SC1015 Mini Project
 
 ## Problem Statement: 
-Analysing Used Car Sales Data to understand what attributes affect the Selling Price of Used Cars most strongly.
+Analysing Used Car Sales Data to understand what attributes affect the Selling Price of Used Cars most strongly. <br>
 (1) We aim to construct a neural network to predict the prices of Used Cars  <br>
 (2) We will propose which attributes should be considered by a prospective seller looking to list their car for sale. This will assist sellers with setting a reasonable price for their car and improve likelihood of successful sales, maximising profit earned from the sale where possible <br>
 (3) We could analyse the most value for money option depending on the mileage, type of car and sale price of the car 
